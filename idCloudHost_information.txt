@@ -1,0 +1,16 @@
+<============== akses Cpanel idCloudHost ==============>
+Url	: http://103.28.53.243:2082/
+Username: andivivi
+Password: )VR12sVS3zl[h6
+
+
+<============== akses Db Andivivi_ ==============>
+db_name : andivivi_tim_sukses
+
+db_user : andivivi_dua_periode	
+
+db_password : Petahana2*Lebih_baik
+
+
+<============== Domain Name ==============>
+andivivinnah.com
